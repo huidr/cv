@@ -1,6 +1,4 @@
-## Ronald Huidrom | Vitae
-
-### Education 
+### Education
 
 - **M.Sc. in Computer Science**, _Chennai Mathematical Institute_, 2024-2026 <br/>
 Thesis: 
@@ -13,7 +11,7 @@ Thesis: [_A treatise of the Jones polynomial_](), Advisor: Shane D'Mello
 - Tutor, Mathematics, IISER Mohali, 2022-2024
 - Convener, Infinity, IISER Mohali, 2022-2023
 
-### Fellowships/Awards
+### Fellowships/Scholarships/Awards
 
 - Scholarship, CMI, 2024-2026 <br/>
 - Merit-cum-Means Fellowship, IISER Mohali, 2020-2024 <br/>
