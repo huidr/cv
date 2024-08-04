@@ -1,7 +1,6 @@
 ### Education
 
 - **M.Sc.** in **Computer Science**, _Chennai Mathematical Institute_, 2024-2026 <br/>
-Thesis: 
 
 - **BS-MS** in **Mathematics**, _Indian Institute of Science Education and Research, Mohali_, 2019-2024 <br/>
 Thesis: [_A treatise of the Jones polynomial_](), Advisor: Shane D'Mello
@@ -10,6 +9,10 @@ Thesis: [_A treatise of the Jones polynomial_](), Advisor: Shane D'Mello
 
 - Tutor, Mathematics, _IISER Mohali_, 2022-2024
 - Convener, Infinity, _IISER Mohali_, 2022-2023
+
+### Talks/Seminars
+
+- _A brief overview of categorification and Khovanov (co)homology_, invited talk, GSG Seminar, _IISER Mohali_, Mar. 30, 2024
 
 ### Fellowships/Scholarships/Awards
 
