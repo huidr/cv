@@ -1,4 +1,4 @@
-## A Brief CV
+## CV
 
 ### Education
 
