@@ -4,7 +4,7 @@
 
 - **M.Sc.** in **Computer Science**, _Chennai Mathematical Institute_, 2024-2026
 - **BS-MS** in **Mathematics**, _Indian Institute of Science Education and Research, Mohali_, 2019-2024
-- **Prathama** in **Violin**, _Shri Shri Bal Mukunda Music College_, 2023
+- **Prathama** in **Violin**, _Shri Shri Bal Mukunda Music College_, 2022-2024
 
 ### Service
 
