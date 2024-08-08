@@ -5,6 +5,9 @@
 - **BS-MS** in **Mathematics**, _Indian Institute of Science Education and Research, Mohali_, 2019-2024 <br/>
 Thesis: [_A treatise of the Jones polynomial_](), Advisor: Shane D'Mello
 
+- **Prathama** in **Violin**, _Shri Shri Bal Mukunda Music College_, 2023 <br />
+Instructor: Oja Ranjit
+
 ### Service
 
 - Tutor, Mathematics, _IISER Mohali_, 2022-2024
