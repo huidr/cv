@@ -1,3 +1,5 @@
+## CV
+
 ### Education
 
 - **M.Sc.** in **Computer Science**, _Chennai Mathematical Institute_, 2024-2026 <br/>
