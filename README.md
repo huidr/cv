@@ -9,7 +9,7 @@
 ### Service
 
 - Tutor, Mathematics, _IISER Mohali_, 2022-2024
-- Convener, Infinity, _IISER Mohali_, 2022-2023
+- Convener, Infinity (Math Club), _IISER Mohali_, 2022-2023
 
 ### Talks/Seminars
 
