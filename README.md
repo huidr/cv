@@ -2,7 +2,6 @@
 
 ### Education
 
-- **Ph.D.** in **Physics and Applied Mathematics**, _Indian Statistical Institute, Kolkata_, 2026-2031
 - **M.Sc.** in **Computer Science**, _Chennai Mathematical Institute_, 2024-2026
 - **BS-MS** in **Mathematics**, _Indian Institute of Science Education and Research, Mohali_, 2019-2024
 - **Prathama** in **Music and Violin**, _Shri Shri Bal Mukunda Music College_, 2022-2024
